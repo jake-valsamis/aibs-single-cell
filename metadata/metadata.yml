@@ -1,2 +1,8 @@
 metadata_version: 1
 name: single cell tutorial
+description: a description
+tags:
+- single cell
+- tutorial
+authors:
+- name: Jake
